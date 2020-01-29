@@ -1,0 +1,7 @@
+<suite name="Suite2" verbose="1" >
+  <test name="Facebook" >
+    <classes>
+       <class name="facebookReg.FacebookReg" />
+    </classes>
+  </test>
+</suite>
